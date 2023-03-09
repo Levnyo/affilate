@@ -1,0 +1,29 @@
+#valutak{
+    width: 100%;
+    height: 100%;
+    border-radius: 40% ;
+}
+p{
+    font-size: 20px;
+}
+img{
+    border-radius: 10% ;
+}
+h2{
+    text-decoration-line: underline;
+    
+    font-family:monospace;
+}
+#cim{
+    font-family:fantasy;
+}
+#video{
+    filter: blur(6px)
+}
+#video:hover
+{
+    filter:none;
+}
+.valtogat{
+    text-align: center;
+}
